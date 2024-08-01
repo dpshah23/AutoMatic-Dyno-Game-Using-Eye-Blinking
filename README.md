@@ -62,7 +62,7 @@ Before you begin, ensure you have met the following requirements:
 
 2. Run the Python script:
    ```sh
-   python dino_game.py
+   python main.py
    ```
 
 3. Allow the webcam access if prompted. The script will start capturing video from your webcam.
